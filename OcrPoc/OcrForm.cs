@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace OcrPoc
 {
-    public partial class Form1 : Form
+    public partial class OcrForm : Form
     {
-        public Form1()
+        public OcrForm()
         {
             InitializeComponent();
         }
