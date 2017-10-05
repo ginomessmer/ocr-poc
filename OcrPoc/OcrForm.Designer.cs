@@ -57,7 +57,7 @@
             this.cmdSelectImage.Name = "cmdSelectImage";
             this.cmdSelectImage.Size = new System.Drawing.Size(467, 23);
             this.cmdSelectImage.TabIndex = 1;
-            this.cmdSelectImage.Text = "Select image";
+            this.cmdSelectImage.Text = "Select and scan image";
             this.cmdSelectImage.UseVisualStyleBackColor = true;
             this.cmdSelectImage.Click += new System.EventHandler(this.cmdSelectImage_Click);
             // 
